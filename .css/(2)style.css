@@ -1,1 +1,41 @@
+.header {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 60px auto;
+}
+.header span {
+    display: block;
+}
+
+.form{
+    border: 5px solid #2727d9;
+    padding: 30px 20px;
+}
+.form input {
+    margin-bottom: 12px;
+}
+.form-header {
+    font-size: 20px;
+    font-weight: 900;
+}
+.form-btn {
+    background-color: #2727d9;
+    margin: 12px auto;
+}
+.section-header {
+    margin-top: 20px auto;
+    font-size: 30px;
+}
+.feature {
+    margin-top: 60px 50px 50px 50px;
+}
+.feature p {
+    margin-top: 20px;
+}
+.video {
+    margin-bottom: 40px;
+}
+.feature-box {
+    height: 160px;
+}
 
